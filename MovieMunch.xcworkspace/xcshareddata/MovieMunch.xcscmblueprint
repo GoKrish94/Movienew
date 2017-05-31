@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0ED80BBA7E782C74311FE4FCC0E09C23AB86DC82",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2E578A5B169DBAD7A6CC118201EEBCB7FA201750" : 9223372036854775807,
+    "0ED80BBA7E782C74311FE4FCC0E09C23AB86DC82" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2B87DE46-769E-4268-8F42-D8AF5821FE8D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2E578A5B169DBAD7A6CC118201EEBCB7FA201750" : "Movienew\/Pods\/",
+    "0ED80BBA7E782C74311FE4FCC0E09C23AB86DC82" : "MovieMunch%202%202\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MovieMunch",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MovieMunch.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/Harikarthick\/moviemunch.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0ED80BBA7E782C74311FE4FCC0E09C23AB86DC82"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/Harikarthick\/moviemunch.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2E578A5B169DBAD7A6CC118201EEBCB7FA201750"
+    }
+  ]
+}
